@@ -2,7 +2,5 @@
 My first repository on GitHub 
 These repo. 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+https://i.pinimg.com/474x/8a/88/63/8a8863d43223ec63aad7ba05d8fbf2b2.jpg
 </picture>
